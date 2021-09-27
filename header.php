@@ -21,8 +21,9 @@
                     <ul class="nav nav-tabs container-fluid text-center" id="main-navbar">
                         <li class='nav-item nav-bar-item flex-fill active' role="presentation"><a class='nav-link active' id="home-tab-nav" data-bs-toggle="tab" data-bs-target="#home-tab" type="button" role="tab" aria-controls="home" aria-selected="true">Home</a></li>
                         <li class='nav-item nav-bar-item flex-fill' role="presentation"><a class='nav-link' id="bio-tab-nav" data-bs-toggle="tab" data-bs-target="#bio-tab" type="button" role="tab" aria-controls="bio" aria-selected="false">Bio</a></li>
-                        <li class='nav-item nav-bar-item flex-fill' role="presentation"><a class='nav-link' href='litter.php'>Litters</a></li>
-                        <li class='nav-item nav-bar-item flex-fill' role="presentation"><a class='nav-link' href='about-us.php'>About Us</a></li>
+                        <li class='nav-item nav-bar-item flex-fill' role="presentation"><a class='nav-link' id="litter-tab-nav" data-bs-toggle="tab" data-bs-target="#litter-tab" type="button" role="tab" aria-controls="litter" aria-selected="false">Litters</a></li>
+                        <li class='nav-item nav-bar-item flex-fill' role="presentation"><a class='nav-link' id="about-tab-nav" data-bs-toggle="tab" data-bs-target="#about-tab" type="button" role="tab" aria-controls="about" aria-selected="false">About Us</a></li>
+                        <li class='nav-item nav-bar-item flex-fill' role="presentation"><a class='nav-link' id="questions-tab-nav" data-bs-toggle="tab" data-bs-target="#questions-tab" type="button" role="tab" aria-controls="questions" aria-selected="false">Questionnaire</a></li>
                     </ul>
                 </nav>
             </div>
