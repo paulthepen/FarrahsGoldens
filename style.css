@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #87e8a0;
+}
+
+.head-container {
+  background-color: #ddd;
+}
+
+.logo {
+  height: 100px;
+}
+
+.head-container h1 {
+  font-family: "Grechen Fuemen", display;
+  font-weight: 600;
+  font-size: 80px;
+  display: inline;
+}
+
+.container {
+  box-shadow: 0px 0px 8px #333;
+  background-color: #fff;
+}
+
+#main-nav {
+  padding: 0;
+}
+
+.nav-bar-item:first-child {
+  border-top-left-radius: 5px;
+}
+
+.nav-bar-item:last-child {
+  border-top-right-radius: 5px;
+}
+
+.nav-link.active {
+  border: 1px solid #333;
+  box-shadow: 0px -1px 2px #333;
+  border-bottom: 0;
+}
+
+.nav-link:not(.active) {
+  border-bottom: 1px solid #333;
+}
