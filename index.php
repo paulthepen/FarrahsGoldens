@@ -71,16 +71,7 @@
             This is the litter
         </div>
         <div class="tab-pane" role="tabpanel" aria-labelledby="questions-tab-nav" id="questions-tab">
-            <form action="submit.php" type="POST">
-                <div class="row">
-                    <div class="col-sm-2 text-end">
-                        <label for="input-name" class="form-label">Name: </label>
-                    </div>
-                    <div class="col-sm-4">
-                        <input type="text" class="form-control" id="input-name" name="name" />
-                    </div>
-                </div>
-            </form>
+            <?php include 'questions.php'; ?>
         </div>
     </div>
 
