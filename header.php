@@ -5,11 +5,14 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
     <script src="https://use.fontawesome.com/3c11e2a10a.js"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/ui/1.13.0/jquery-ui.js"></script>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.13.0/themes/base/jquery-ui.css">
     <link rel="stylesheet" href="style.css" type="text/css" />
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Grechen+Fuemen&display=swap');
     </style>
-    <title>Farrah&#86;s Goldens - Tennessee Golden Retriever Breeding Program</title>
+    <title>Farrahs Goldens - Tennessee Golden Retriever Breeding Program</title>
 </head>
 
 <body>
