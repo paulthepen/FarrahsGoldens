@@ -22,5 +22,8 @@ $fields_sorter = [
     'Address: ' => 'address',
     'City: ' => 'city',
     'State/ZIP: ' => 'state',
-    'Home Phone: ' => ''
+    'Home Phone: ' => 'home',
+    'Work/Cell: ' => 'cell',
+    'Email: ' => 'email',
+    
 ]

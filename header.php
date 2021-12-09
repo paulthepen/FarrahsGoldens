@@ -9,14 +9,16 @@
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
     <link rel="stylesheet" href="//code.jquery.com/ui/1.13.0/themes/base/jquery-ui.css">
     <link rel="stylesheet" href="style.css" type="text/css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Grechen+Fuemen&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&display=swap');
     </style>
     <title>Farrahs Goldens - Tennessee Golden Retriever Breeding Program</title>
 </head>
 
 <body>
-    <div class="container">
+    <div class="container-lg body">
         <div class="row">
             <div class='col-sm-12 head-container'>
                 <div class="col-sm-12 text-center logo">

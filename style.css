@@ -16,13 +16,13 @@ body {
 }
 
 .head-container h1 {
-  font-family: "Grechen Fuemen", display;
+  font-family: "Bubblegum Sans", display;
   font-weight: 600;
   font-size: 80px;
   display: inline;
 }
 
-.container {
+.body {
   box-shadow: 0px 0px 8px #333;
   background-color: #fff;
 }
@@ -78,5 +78,5 @@ input {
 }
 
 .form-label {
-    margin-top: 15px !important;
+  margin-top: 15px !important;
 }
