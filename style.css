@@ -80,3 +80,19 @@ input {
 .form-label {
   margin-top: 15px !important;
 }
+
+.hero {
+  margin: 0;
+  padding: 0;
+}
+
+.hero img {
+  width: 100%;
+}
+
+.story::first-letter {
+  font-weight: 600;
+  color: #465f4f;
+  font-family: serif;
+  font-size: 1.5rem;
+}

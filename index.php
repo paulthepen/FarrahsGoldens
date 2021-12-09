@@ -3,8 +3,51 @@
 <div class="row">
     <div class="tab-content">
         <div class="tab-pane active" role="tabpanel" aria-labelledby="home-tab-nav" id="home-tab">
-            <div class="col-sm-4">Sidebar</div>
-            <div class="col-sm-8">Content</div>
+            <div class="col-sm-12">
+                <h2>News</h2>
+                <hr />
+                <p>Congratulations to our newest family! They will be taking the yellow boy home shortly after Christmas, which means all of our first litter are homed!</p>
+            </div>
+            <div id="hero-carousel" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner" style="border-radius: 6px;">
+                    <div class="carousel-item active text-center" style="background: #aaa;">
+                        <img class="start-50" src="imgs/farrahProfile.jpg" alt="Farrah Profile" title="Farrah" />
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12">
+                <h2>About Us</h2>
+                <div class="row">
+                    <div class="col-12">
+                        <p class="story">
+                            It all started with a bright-eyed veterinary technician.
+                            Amy's big heart was distraught as she worked with many families who had to have their family friends put down
+                            due to cancer. This was an especially heart-wrenching trend with Golden Retrievers. As Amy moved on and raised
+                            a family, she never forgot about the troublesome breed, and when the opportunity presented itself, She decided to do something about it.
+                        </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-8">
+                        <p class="story">
+                            Enter Farrah.<br />
+                            Amy had decided that she was going to work towards the goal of eliminating cancer
+                            in the Golden Retriever breed. She did extensive research into reputable breeders across
+                            the country until she found Farrah who was just around the corner. The rest is history.
+                        </p>
+                    </div>
+                    <div class="col-4">
+                        <img class="img-fluid" src='imgs/amyAndFarrah.jpg' />
+                    </div>
+                    <div class="col-8">
+                        <p class="story">
+                            The goal of Farrah's Goldens is to responsibly raise companion Golden Retrievers that 
+                            have a significantly smaller change of developing cancer later in life. Stud males are 
+                            chosen primarily for this purpose which will hopefully lead to a lower chance of cancer in future generations.
+                        </p>
+                    </div>
+                </div>
+            </div>
         </div>
         <div class="tab-pane" role="tabpanel" aria-labelledby="bio-tab-nav" id="bio-tab">
             <div class="row">
