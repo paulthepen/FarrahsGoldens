@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 
-<div class="row">
+<div class="row body">
     <div class="tab-content">
         <div class="tab-pane active" role="tabpanel" aria-labelledby="home-tab-nav" id="home-tab">
             <div class="col-sm-12">
@@ -10,7 +10,7 @@
             </div>
             <div id="hero-carousel" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner" style="border-radius: 6px;">
-                    <div class="carousel-item active text-center" style="background: #aaa;">
+                    <div class="carousel-item active text-center" style="background: rgba(0,0,0,0);">
                         <img class="start-50" src="imgs/farrahProfile.jpg" alt="Farrah Profile" title="Farrah" />
                     </div>
                 </div>
@@ -41,8 +41,8 @@
                     </div>
                     <div class="col-8">
                         <p class="story">
-                            The goal of Farrah's Goldens is to responsibly raise companion Golden Retrievers that 
-                            have a significantly smaller change of developing cancer later in life. Stud males are 
+                            The goal of Farrah's Goldens is to responsibly raise companion Golden Retrievers that
+                            have a significantly smaller change of developing cancer later in life. Stud males are
                             chosen primarily for this purpose which will hopefully lead to a lower chance of cancer in future generations.
                         </p>
                     </div>

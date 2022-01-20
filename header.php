@@ -18,7 +18,7 @@
 </head>
 
 <body>
-    <div class="container-lg body">
+    <div class="container-lg">
         <div class="row">
             <div class='col-sm-12 head-container'>
                 <div class="col-sm-12 text-center logo">
