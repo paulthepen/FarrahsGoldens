@@ -12,7 +12,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&display=swap');
     </style>
     <title>Farrahs Goldens - Tennessee Golden Retriever Breeding Program</title>
 </head>

@@ -37,7 +37,7 @@
                         </p>
                     </div>
                     <div class="col-4">
-                        <img class="img-fluid" src='imgs/amyAndFarrah.jpg' />
+                        <img class="img-fluid" src='imgs/amypuppy.jpg' />
                     </div>
                     <div class="col-8">
                         <p class="story">
@@ -95,7 +95,7 @@
                     </div>
                 </div>
                 <div class="col-sm-8">
-                    <img class='img-fluid' src="https://paulcharpie-my.sharepoint.com/personal/paul_charpies_com/Documents/web/-979723587100308563.jpg" alt="farrah" />
+                    <img class='img-fluid' src="./imgs/farrahcouchhappy.jpg" alt="farrah" />
                     <p>Princess Farrah Muffin was born March 13th, 2018 at Lonesome Pine's Goldens.
                         She was taken to her forever home by Amy Charpie when she was 8 weeks of age and she has spent her time as a wonderful family companion.
                         Amy always had thoughts of breeding her in hopes of bettering the Golden Retriever breed, but many tests needed to be performed to
@@ -111,7 +111,24 @@
             This is the about us
         </div>
         <div class="tab-pane" role="tabpanel" aria-labelledby="litter-tab-nav" id="litter-tab">
-            This is the litter
+            <div id="litter-carousel" class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner" style="border-radius: 6px;">
+                    <div class="carousel-item active text-center" style="background: rgba(0,0,0,0);">
+                        <img class="start-50" src="imgs/collage.jpg" alt="Homed Puppies" title="Homed Puppies" />
+                    </div>
+                    <div class="carousel-item text-center" style="background: rgba(0,0,0,0);">
+                        <img class="start-50" src="imgs/puppiesyawn.jpg" alt="Puppies" title="Puppies" />
+                    </div>
+                </div>
+                <a class="carousel-control-prev" href="#litter-carousel" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#litter-carousel" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
         </div>
         <div class="tab-pane" role="tabpanel" aria-labelledby="questions-tab-nav" id="questions-tab">
             <?php include 'questions.php'; ?>
