@@ -111,23 +111,33 @@
             This is the about us
         </div>
         <div class="tab-pane" role="tabpanel" aria-labelledby="litter-tab-nav" id="litter-tab">
-            <div id="litter-carousel" class="carousel slide" data-ride="carousel">
-                <div class="carousel-inner" style="border-radius: 6px;">
-                    <div class="carousel-item active text-center" style="background: rgba(0,0,0,0);">
-                        <img class="start-50" src="imgs/collage.jpg" alt="Homed Puppies" title="Homed Puppies" />
+            <div class="panel">
+                <div class="panel-header">
+                    <h2>
+                        Farrah's Litter - Winter 2021
+                    </h2>
+                </div>
+                <div class="panel-body d-inline-flex justify-content-between">
+                    <div class="d-flex flex-column justify-content-between litter-left">
+                        <div>
+                            Birthdate: September 19th<br />
+                            Number of Puppies: 8<br />
+                            Females: 4<br />
+                            Males: 4
+                        </div>
+                        <div class="d-inline-flex flex-nowrap">
+                            <img class='img-thumbnail' src='imgs/winter2021/001.jpg' />
+                            <img class='img-thumbnail' src='imgs/winter2021/002.jpg' />
+                            <img class='img-thumbnail' src='imgs/winter2021/003.jpg' />
+                            <img class='img-thumbnail' src='imgs/winter2021/004.jpg' />
+                            <img class='img-thumbnail' src='imgs/winter2021/005.jpg' />
+                            <img class='img-thumbnail' src='imgs/winter2021/006.jpg' />
+                        </div>
                     </div>
-                    <div class="carousel-item text-center" style="background: rgba(0,0,0,0);">
-                        <img class="start-50" src="imgs/puppiesyawn.jpg" alt="Puppies" title="Puppies" />
+                    <div class='litter-showcase'>
+                        <img src='./imgs/collage.jpg' alt="litter picture" title="Litter Picture" />
                     </div>
                 </div>
-                <a class="carousel-control-prev" href="#litter-carousel" role="button" data-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Previous</span>
-                </a>
-                <a class="carousel-control-next" href="#litter-carousel" role="button" data-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Next</span>
-                </a>
             </div>
         </div>
         <div class="tab-pane" role="tabpanel" aria-labelledby="questions-tab-nav" id="questions-tab">
